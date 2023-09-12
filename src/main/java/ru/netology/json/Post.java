@@ -1,3 +1,6 @@
+package ru.netology.json;
+
+
 public class Post {
     public String name;
     public String passport;
